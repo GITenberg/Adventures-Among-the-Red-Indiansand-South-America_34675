@@ -1,0 +1,27 @@
+_repo: Adventures-Among-the-Red-Indiansand-South-America_34675
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34675-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Wright, Sidney Harry
+    alias: Hyrst, H. W. G.
+    gutenberg_agent_id: '37162'
+    url: http://www.gutenberg.org/2009/agents/37162
+description: ''
+gutenberg_issued: '2010-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of South America'
+- !lcc 'E011'
+- !lcsh 'Indians of North America'
+title: "Adventures Among the Red Indians\r\nRomantic Incidents and Perils Amongst\
+  \ the Indians of North and South America"
+url: http://www.gutenberg.org/ebooks/34675
